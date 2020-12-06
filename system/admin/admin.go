@@ -51,7 +51,7 @@ var startAdminHTML = `<!doctype html>
         <div class="admin-ui row">`
 
 var mainAdminHTML = `
-            <div class="left-nav col s3">
+            <div class="left-nav col s12 m3">
                 <div class="card">
                 <ul class="card-content collection">
                     <div class="card-title">Content</div>
